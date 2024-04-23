@@ -2,3 +2,6 @@ kepa
 mudryk
 gallagher
 pisun
+jackson
+madueke
+silva
